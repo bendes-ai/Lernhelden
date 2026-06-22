@@ -28,7 +28,7 @@ export default function Footer() {
           </p>
         </div>
         <div style={{ textAlign:'center', fontSize:'0.8rem', color:'rgba(255,255,255,0.5)', borderTop:'1px solid rgba(255,255,255,0.1)', paddingTop:'1rem' }}>
-          © 2025 LernHeld • Keine Cookies, keine Tracker, keine persönlichen Daten
+          © 2025 LernHelden - Bernd Trißler  • Keine Cookies, keine Tracker, keine persönlichen Daten
         </div>
       </div>
     </footer>
