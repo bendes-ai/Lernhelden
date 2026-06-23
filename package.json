@@ -1,6 +1,6 @@
 {
-  "name": "lernheld",
-  "version": "1.0.0",
+  "name": "lernhelden",
+  "version": "1.1.0",
   "description": "Lerntechniken & KI-Sicherheit fuer Kinder",
   "type": "module",
   "scripts": {
